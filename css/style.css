@@ -36,12 +36,9 @@ body{
     background-color: #000;
     justify-content: center;
     align-items: center;
-    filter: blur(8px);
-    -webkit-filter: blur(1px);
-    opacity: .4;
     margin: auto;
     padding: 10px 0;
     position: relative;
     top: 15%;
-
+    color: white;
 }
