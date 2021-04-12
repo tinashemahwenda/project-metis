@@ -39,5 +39,6 @@ body{
     filter: blur(8px);
     -webkit-filter: blur(1px);
     opacity: .4;
+    margin: auto;
     padding: 10px;
 }
