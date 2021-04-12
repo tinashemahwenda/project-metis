@@ -41,5 +41,7 @@ body{
     opacity: .4;
     margin: auto;
     padding: 10px 0;
+    position: relative;
+    top: 15%;
 
 }
