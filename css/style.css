@@ -36,7 +36,7 @@ body{
     background-color: #000;
     justify-content: center;
     align-items: center;
-    filter: blur(1px);
-  -webkit-filter: blur(1px);
-  opacity: .4;
+    filter: blur(8px);
+    -webkit-filter: blur(1px);
+    opacity: .4;
 }
