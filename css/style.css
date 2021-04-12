@@ -68,4 +68,7 @@ body{
     text-decoration: none;
     color: white;
     font-weight: 500;
+    position: relative;
+    top: 20%;
+
 }
