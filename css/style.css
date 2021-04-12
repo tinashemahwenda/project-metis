@@ -46,9 +46,15 @@ body{
 }
 .logo{
     color: black;
-    margin: 1em;
+    margin: 2em;
     padding: .5em;
     background-color: white;
     width: 5em;
     font-weight: bold;
+}
+.small-box h2{
+    margin-left: 1.3em;
+}
+.small-box h4{
+    margin-left: 1.3em;
 }
