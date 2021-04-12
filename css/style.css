@@ -54,7 +54,9 @@ body{
 }
 .small-box h2{
     margin-left: 1.3em;
+    font-weight: 400;
 }
 .small-box h4{
-    margin-left: 1.3em;
+    margin-left: 2em;
+    font-weight: 500;
 }
