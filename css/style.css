@@ -40,6 +40,6 @@ body{
     -webkit-filter: blur(1px);
     opacity: .4;
     margin: auto;
-    padding: 10px;
-    padding-top: 10px;
+    padding: 10px 0;
+
 }
