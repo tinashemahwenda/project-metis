@@ -24,6 +24,9 @@ body{
     width: 40%;
     height: 100%;
     background-image: url('../img/william-iven-TMOeGZw9NY4-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 0;
     border-top-right-radius: 10%;
     border-bottom-right-radius: 10%;
