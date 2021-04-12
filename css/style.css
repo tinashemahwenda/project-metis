@@ -60,3 +60,7 @@ body{
     margin-left: 2em;
     font-weight: 500;
 }
+.small-box p{
+    margin-left: 1.9em;
+    font-size: .8em;
+}
