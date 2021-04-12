@@ -8,8 +8,10 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: white;
     width: 100%;
-    height: 420vh;
+    height: 100vh;
     margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 .parent-box{
     width: 100%;
