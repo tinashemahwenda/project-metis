@@ -3,6 +3,7 @@ body{
     height:100vh;
     background-color: red;
     overflow: hidden;
+    margin: 0;
 }
 .container{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
