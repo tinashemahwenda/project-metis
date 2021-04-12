@@ -4,4 +4,5 @@ body{
 }
 .container{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
 }
